@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-01)
+## Unreleased (2025-03-04)
 
 <section class="features">
 
@@ -16,12 +16,25 @@
 
 <!-- /.features -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5717](https://github.com/stdlib-js/stdlib/issues/5717)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`c5f6ec6`](https://github.com/stdlib-js/stdlib/commit/c5f6ec6933b8c3897270392dc37ac47a4580d12a) - **chore:** address commit comment [(#5758)](https://github.com/stdlib-js/stdlib/pull/5758) _(by Jalaj Kumar)_
 -   [`00fa462`](https://github.com/stdlib-js/stdlib/commit/00fa4624da3569f508a061390f96eea92bb84ee3) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dvariance` [(#5522)](https://github.com/stdlib-js/stdlib/pull/5522) _(by Prashant Kumar Yadav, Aayush Khanna)_
 -   [`b4e42d9`](https://github.com/stdlib-js/stdlib/commit/b4e42d99681a21b2be9b80a801dd83943b919646) - **refactor:** update `stats/base/dvariance` native addon from C++ to C [(#4276)](https://github.com/stdlib-js/stdlib/pull/4276) _(by Vivek Maurya)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -39,10 +52,11 @@
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Jalaj Kumar
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
 -   Vivek Maurya

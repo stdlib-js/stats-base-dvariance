@@ -361,8 +361,6 @@ int main( void ) {
 
 <!-- /.c -->
 
-* * *
-
 <section class="references">
 
 </section>
